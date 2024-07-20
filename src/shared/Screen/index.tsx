@@ -28,5 +28,6 @@ const styles = StyleSheet.create({
   wrapper: {
     paddingHorizontal: 16,
     flex: 1,
+    position: 'relative'
   }
 });

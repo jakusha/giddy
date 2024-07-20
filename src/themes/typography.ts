@@ -1,24 +1,28 @@
-import { font } from "./font";
+import { wp } from "@utils/responsive-design";
 
 export const typography = {
-    body: {
-        fontFamily: font.PROXIMANOVAREGULAR,
-        fontSize: 14,
-    },
     h1: {
-        fontFamily: font.PROXIMANOVAREGULAR,
-        fontSize: 24
+        fontFamily: 'Cabin-Bold',
+        fontSize: wp(32),
     },
     h2: {
-        fontFamily: font.PROXIMANOVAREGULAR,
-        fontSize: 20
+        fontFamily: 'Cabin-Bold',
+        fontSize: wp(28),
     },
     h3: {
-        fontFamily: font.PROXIMANOVAREGULAR,
-        fontSize: 18
+        fontFamily: 'Cabin-Bold',
+        fontSize: wp(20),
     },
-    regular: {
-        fontFamily: font.PROXIMANOVAREGULAR,
-        fontSize: 16
+    body: {
+        fontFamily: 'Cabin-Regular',
+        fontSize: wp(14),
+    },
+    bodySemiBold: {
+        fontFamily: 'Cabin-SemiBold',
+        fontSize: wp(14),
+    },
+    bodyBold: {
+        fontFamily: 'Cabin-Bold',
+        fontSize: wp(14),
     }
 }

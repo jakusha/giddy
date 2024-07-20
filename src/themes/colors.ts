@@ -2,9 +2,19 @@ export const colors = {
     WHITE: '#ffffff',
     BLACK: '#000000',
     PRIMARY: '#D1410D',
+    LIGHT_BLUE_100: '#2287CA',
+    LIGHT_BLUE_200: '#b2c9dd',
+    LIGHT_BLUE_300: '#1D8DFF',
     DEEP_BLUE_100: '#171723',
     DEEP_BLUE_200: '#283488',
     DEEP_BLUE_300: '#47586C',
     OFF_WHITE_100: '#EFF5F8',
-    GREY_100: '#3E3E3E'
+    GREY_100: '#3E3E3E',
+    GREY_200: '#626262',
+    GREY_300: '#2A2A2A',
+    GREY_400: '#B5B5B5',
+    GREY_500: '#E0E0E8',
+    GREY_600: '#E5EAED',
+    RED_100: '#DE450D',
+    RED_200: '#FA063D'
 }

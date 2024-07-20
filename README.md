@@ -1,0 +1,1 @@
+figma design file: [[giddy design inspiration](https://www.figma.com/design/fZuSJ7hEpBbHvcF0UJwMnA/Social-Media-App-(Community)?node-id=1-26&t=sZ2h1NMy2WWXXD8L-1)]
